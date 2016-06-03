@@ -1,0 +1,4 @@
+node_modules/
+public/plugin/
+examples/
+*.swp
